@@ -31,7 +31,7 @@
   },
   {
     "AppxPackage": "Microsoft.GamingApp",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox/9mv0b5hzvk9z",
     "Description": "Xbox app"
   },
@@ -43,13 +43,13 @@
   },
   {
     "AppxPackage": "Microsoft.Getstarted",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-tips/9wzdncrdtbjj",
     "Description": "Windows 10 tips app"
   },
   {
     "AppxPackage": "Microsoft.MicrosoftOfficeHub",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/office/9wzdncrd29v9",
     "Description": "Office UWP app suite"
   },
@@ -67,7 +67,7 @@
   },
   {
     "AppxPackage": "Microsoft.MicrosoftStickyNotes",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw",
     "Description": "Note-taking app"
   },
@@ -97,7 +97,7 @@
   },
   {
     "AppxPackage": "Microsoft.PowerAutomateDesktop",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://flow.microsoft.com/en-us/desktop/",
     "Description": "Power Automate Desktop app. Record desktop and web actions in a single flow"
   },
@@ -109,7 +109,7 @@
   },
   {
     "AppxPackage": "Microsoft.SkypeApp",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/skype/9wzdncrfj364",
     "Description": "Instant message, voice or video call app"
   },
@@ -133,7 +133,7 @@
   },
   {
     "AppxPackage": "Microsoft.Windows.DevHome",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://learn.microsoft.com/en-us/windows/dev-home/",
     "Description": "A control center providing the ability to monitor projects in your dashboard using customizable widgets and more"
   },
@@ -163,13 +163,13 @@
   },
   {
     "AppxPackage": "microsoft.windowscommunicationsapps",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/mail-and-calendar/9wzdncrfhvqm",
     "Description": "Mail & Calendar apps"
   },
   {
     "AppxPackage": "Microsoft.WindowsFeedbackHub",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/feedback-hub/9nblggh4r32n",
     "Description": "App to provide Feedback on Windows and apps to Microsoft"
   },
@@ -211,37 +211,37 @@
   },
   {
     "AppxPackage": "Microsoft.Xbox.TCUI",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://docs.microsoft.com/en-us/gaming/xbox-live/features/general/tcui/live-tcui-overview",
     "Description": "XBox Title Callable UI (TCUI) enables your game code to call pre-defined user interface displays"
   },
   {
     "AppxPackage": "Microsoft.XboxGameOverlay",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox-game-bar/9nzkpstsnw4p",
     "Description": "Xbox Game Bar extensible overlay"
   },
   {
     "AppxPackage": "Microsoft.XboxGamingOverlay",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox-game-bar/9nzkpstsnw4p",
     "Description": "Xbox Game Bar extensible overlay"
   },
   {
     "AppxPackage": "Microsoft.XboxIdentityProvider",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox-identity-provider/9wzdncrd1hkw",
     "Description": "A system app that enables PC games to connect to Xbox Live."
   },
   {
     "AppxPackage": "Microsoft.XboxSpeechToTextOverlay",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://support.xbox.com/help/account-profile/accessibility/use-game-chat-transcription",
     "Description": "Xbox game transcription overlay"
   },
   {
     "AppxPackage": "Microsoft.YourPhone",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/Your-phone/9nmpj99vjbwv",
     "Description": "Android phone to PC device interface app"
   },
@@ -271,13 +271,13 @@
   },
   {
     "AppxPackage": "Microsoft.XboxApp",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/store/apps/9wzdncrfjbd8",
     "Description": "Xbox 'Console Companion' app (games, friends, etc.)"
   },
   {
     "AppxPackage": "Microsoft.MixedReality.Portal",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/mixed-reality-portal/9ng1h8b3zc7m",
     "Description": "The app that facilitates Windows Mixed Reality setup, and serves as the command center for mixed reality experiences"
   },
@@ -289,7 +289,7 @@
   },
   {
     "AppxPackage": "MicrosoftTeams",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
     "Description": "Microsoft communication platform"
   },
@@ -301,7 +301,7 @@
   },
   {
     "AppxPackage": "Microsoft.Wallet",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/payments",
     "Description": "(Microsoft Pay) for Edge browser on certain devices"
   }
